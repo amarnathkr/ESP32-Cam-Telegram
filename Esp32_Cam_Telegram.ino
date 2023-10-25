@@ -19,12 +19,12 @@ const char* ssid = "Galaxy M017878";
 const char* password = "tfms2291";
 
 // Initialize Telegram BOT
-String BOTtoken = "6223617480:AAFuM62zDH3kKICT9wcvWm8-kBhDouftzYM";  // your Bot Token (Get from Botfather)
+String BOTtoken = "Paste Your Token";  // your Bot Token (Get from Botfather)
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-String CHAT_ID = "745618262";
+String CHAT_ID = "Paste Your Chat ID";
 
 bool sendPhoto = false;
 
